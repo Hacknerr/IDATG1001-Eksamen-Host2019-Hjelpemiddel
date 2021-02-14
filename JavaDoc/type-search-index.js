@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"me.ntnu.folk.candidatenumber.project","l":"Aid"},{"p":"me.ntnu.folk.candidatenumber.project","l":"AidCentral"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"App"},{"p":"me.ntnu.folk.candidatenumber.project","l":"InputHandler"}]
